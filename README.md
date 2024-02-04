@@ -1,0 +1,2 @@
+# JavaScript
+Daily JavaScript Practice
